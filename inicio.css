@@ -1,0 +1,20 @@
+.esquerda {
+    width: 20%;
+    height: 376px;
+}
+
+.centro {
+    width: 55%;
+    height: 376px;
+}
+
+.design {
+    display: flex;
+     margin-top: 150px;
+  }
+
+.direita {
+    width: 25%;
+    height: 376px;
+}  
+  

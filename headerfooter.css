@@ -1,0 +1,128 @@
+header {
+    background-color: #38b6ff;
+
+}
+
+.logo {
+    width: 127px;
+    height: 105px;
+    top: 9px;
+    border-radius: 1px;
+}
+
+.head {
+    display: flex;
+}
+
+
+
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #002495;
+    border-radius:10px;
+    width:300px;
+    height:40px;
+  
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+    position: absolute;
+    left: 20%;
+    top: 23x;
+    display:inline-block;
+   
+  }
+  
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    
+    background-color: ;
+    margin-top: 10px;
+    margin-left: 70%;
+  }
+  
+  #divBusca img{
+    float:left;
+  }
+
+.lupa {
+    width: 41px;
+    height: 32px;
+    color: #FF6C1A;
+    margin-left: 5px;
+    margin-top: 2px;
+}  
+
+.dist {
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+.dista {
+  padding-left: 30%;
+  margin-left: 10px;
+  padding-top: 1%;
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+  background-color: #f9f9f9;
+  padding: 1%;
+  border-radius: 32px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px
+  7px 29px 0px;
+
+}
+
+.search-box input {
+  border: 0;
+  background-color: transparent;
+  font-size: 16px;
+  width: 0;
+  transition: 0.8s;
+}
+
+.search-box:hover input {
+  width: 200px;
+}
+
+.search-box button {
+  padding: 10px;
+  border:0;
+  background-color: #fff;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+.casa {
+  height: 70px;
+  width: 70px;
+  margin-left: 30px;
+  
+}
+
+.terra {
+  width: 64px;
+  height: 64px;
+}
+
+.heart {
+ width: 64px;
+ height: 64px;
+}
