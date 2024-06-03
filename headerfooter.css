@@ -15,64 +15,20 @@ header {
 }
 
 
-
-#divBusca{
-    background-color:#E0EEEE;
-    border:solid 2px #002495;
-    border-radius:10px;
-    width:300px;
-    height:40px;
-  
-  }
-  
-  #txtBusca{
-    float:left;
-    background-color:transparent;
-    padding-left:5px;
-    font-size:18px;
-    border:none;
-    height:32px;
-    width:191px;
-    position: absolute;
-    left: 20%;
-    top: 23x;
-    display:inline-block;
-   
-  }
-  
-  #btnBusca{
-    border:none;
-    float:left;
-    height:32px;
-    border-radius:0 7px 7px 0;
-    width:70px;
-    font-weight:bold;
-    
-    background-color: ;
-    margin-top: 10px;
-    margin-left: 70%;
-  }
-  
-  #divBusca img{
-    float:left;
-  }
-
 .lupa {
-    width: 41px;
-    height: 32px;
+    width: 39px;
+    height: 30px;
     color: #FF6C1A;
-    margin-left: 5px;
     margin-top: 2px;
 }  
 
 .dist {
-    padding-left: 10%;
-    padding-top: 1%;
+    padding-left: 5%;
+    padding-top: 30px;
 }
 
 .dista {
-  padding-left: 30%;
-  margin-left: 10px;
+  padding-left: 55%;
   padding-top: 1%;
 }
 
@@ -82,8 +38,7 @@ header {
   background-color: #f9f9f9;
   padding: 1%;
   border-radius: 32px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px
-  7px 29px 0px;
+  box-shadow: 
 
 }
 
@@ -96,7 +51,7 @@ header {
 }
 
 .search-box:hover input {
-  width: 200px;
+  width: 466px;
 }
 
 .search-box button {
@@ -120,9 +75,11 @@ header {
 .terra {
   width: 64px;
   height: 64px;
+  margin-left: 20px;
 }
 
 .heart {
  width: 64px;
  height: 64px;
+ margin-left: 20px;
 }
